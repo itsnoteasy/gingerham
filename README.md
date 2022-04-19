@@ -5,3 +5,5 @@ a fork of the gingham keyboard pcb which adds abnt2 to iso_uk and ansi 60% layou
 made with kicad 5 nightly development build. Upgrade if it will not open.
 
 https://github.com/yiancar/gingham_pcb
+
+there is a backlit version here https://github.com/itsnoteasy/misc/blob/master/donegal_abnt2.zip
